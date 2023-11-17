@@ -29,7 +29,7 @@
 - A document describing the reasons for and the value added from building a new system
 - Contains 5 elements: 
 	- Project Sponsor: Primary point of contact for the project
-	- Business need: Reason prompting the project
+	- Business Need: Reason prompting the project
 	- Business Requirements: what will the system do
 	- Business Value: How will the organization benefit from the project
 	- Special Issues: Anything else to be considered
@@ -74,7 +74,6 @@
 
 ## Project Selection
 - Projects are approved, declined or delayed based on value added vs. risks
-
 - Project portfolio management
 	- Goals
 		- Maximize cost/benefit ratio
@@ -98,7 +97,7 @@
 
 ## Project Effort Estimation
 - Estimation involves trade-offs between functionality, time and cost
-- It is the process of assigning projected values for tine and effort
+- It is the process of assigning projected values for time and effort
 - Most accurate estimates come from experience
 - Use-case point method; based on:
 	- Technical complexity factors (13)
@@ -106,11 +105,9 @@
 
 ## Creating & Managing the Work Plan
 - Work Plan: A dynamic and sequential list of all tasks needed to complete a project
-
 - Approaches:
 	- Modify existing or completed projects
 	- Derive the tasks from the methodology being used
-
 - Unified Processes:
 	- Iterative & Incremental
 	- Workplan is also iterative & incremental
@@ -164,7 +161,7 @@
 
 ## Staffing Plan
 - Calculate the number of people needed:
-	 `number of people = person-months/ time to complete (months)`
+	 - `number of people = person-months/ time to complete (months)`
 - Lines of communication increase exponentially as people are added to a project
 - Create a reporting structure for projects with large numbers of people assigned
 - Form sub-teams as necessary

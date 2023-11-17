@@ -63,11 +63,11 @@
 
 ## SDLC: The Implementation Phase
 ### 1. Construct the system
-	-  Build it (write the code)
-	- Test it
+-  Build it (write the code)
+- Test it
 
 ### 2. Install the system
-	- Train the users
+- Train the users
 
 ### 3. Support the system (maintenance)
 
@@ -260,7 +260,7 @@
 - Use-case diagrams
 
 ## Summary
-- All systems development projects follow essentially the same process. called the Systems Development Life Cycle (SDLC)
+- All systems development projects follow essentially the same process called the Systems Development Life Cycle (SDLC)
 - Systems development methodologies are formalized approaches to implementing SDLCs
 - The systems analyst need a variety of skills and plays many different roles
 - Object-oriented systems differ from traditional systems
