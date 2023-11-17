@@ -75,7 +75,7 @@
 ## Assessing Costs & Benefits
 - Develop a list of costs & benefits from two perspectives:
 	- The Organization
-	- The The Potential Adopters
+	- The Potential Adopters
 - Consider the effects on both end-users and managers
 - Goal is to persuade those who might resist to support the change 
 	- Significant management changes may be required to prevent grassroots derailing efforts

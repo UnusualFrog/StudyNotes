@@ -49,7 +49,7 @@
 ## Designing Tests
 - The purpose of testing is to uncover as many errors as feasible
 	- Impossible to prove a system is error free
-	- Too expensive to look for all possible bus
+	- Too expensive to look for all possible bugs
 	- The purpose of testing is to uncover differences between what the system actually does and what it should do
 - Four Stages of Testing:
 	- Unit tests
@@ -101,7 +101,7 @@
 ## Acceptance Tests
 - Performed primarily by users with support of the project team
 - Goal is to confirm that the system meets the business needs and is acceptable to the users
-- Alphas testing - data is artificial
+- Alpha testing - data is artificial
 - Beta testing - data is real but carefully monitored for errors
 
 ## Developing Documentation
